@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357338695778",
+    "project_id": "authentication-kotlin-43f57",
+    "storage_bucket": "authentication-kotlin-43f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357338695778:android:d4b5ea99720f140cd1693b",
+        "android_client_info": {
+          "package_name": "com.sheoran.authenticationkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG1kkxBCmqMsNS4QcmERtlXxD9HBKezhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
